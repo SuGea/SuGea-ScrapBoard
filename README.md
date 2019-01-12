@@ -1,2 +1,2 @@
-# SuGea-ScrapBoard-
+# SuGea-ScrapBoard
 Scrap Board for SNS.
